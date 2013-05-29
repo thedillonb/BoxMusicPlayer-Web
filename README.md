@@ -8,6 +8,7 @@ Description
 -----------------
 
 A Music player driven written in jQuery Mobile and PHP that uses Box.com as a back-end to serve music files. 
+You can find a more indepth description of the project as well as a detailed walk through by visiting [the following blog post](http://www.dillonbuchanan.com/projects/box-com-jquery-mobile-mobile-music-from-the-cloud-2/).
 
 
 Demo
